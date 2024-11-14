@@ -177,9 +177,8 @@ public class Scanner {
         while (isDigit(peek())) advance();
 
         if (peek() == '.' && isDigit(peekNext())) {
-            advance();
-
-            while (isDigit(peek())) advance();
+            do advance();
+            while (isDigit(peek()));
         }
 
         addToken(TokenType.NUMBER, Double.parseDouble(source.substring(start, current)));
