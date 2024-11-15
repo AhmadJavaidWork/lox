@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c7324d9-90cb-4fd6-a94d-54e2655a3438" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LoxCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoxFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Return.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Expr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Environment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interpreter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stmt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TokenType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
